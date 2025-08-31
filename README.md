@@ -15,9 +15,9 @@ Now clone your forked repo:
 git clone https://github.com/<your-username>/git-workshop-calculator.git
 ```
 
-### 3. Move into the folder
+### 3. Move into the repo
 ```
-cd git-workshop-calculator
+cd calculator
 ```
 
 ### 4. Create a New Branch
