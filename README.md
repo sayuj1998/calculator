@@ -3,7 +3,7 @@
 Welcome to the Git Workshop! 
 In this activity, you’ll practice using Git commands while fixing a simple calculator app.  
 
-## 🚀 Steps  
+## Steps  
 
 ### 1. Fork this Repository  
 Click the **Fork** button at the top right of this page to create your own copy of this repo.  
