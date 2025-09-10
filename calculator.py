@@ -6,16 +6,16 @@ class Calculator:
 
     @staticmethod
     def add(a, b): 
-        return 0
+        return a + b
     
     @staticmethod
     def subtract(a, b): 
-        return 0
+        return a - b
 
     @staticmethod
     def multiply(a, b): 
-        return 0
+        return a * b        
 
     @staticmethod
     def divide(a, b): 
-        return 0
+        return a / b
